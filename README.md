@@ -1,2 +1,5 @@
 # confursion
-The Great Confursion
+
+*...under construction...*
+
+Future home of knowledgebase wiki for the Confursion universe
