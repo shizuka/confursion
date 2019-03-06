@@ -1,0 +1,18 @@
+# The Great Confursion
+# (c) 2019 Jessica Hart
+
+title: confursion
+url: "https://confursion.hokora.page"
+baseurl: ""
+markdown: kramdown
+timezone: America/Chicago
+
+exclude: ["*.ini", "CNAME", "README.md", ".gitignore"]
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+sass:
+  sass_dir: _sass
