@@ -2,6 +2,6 @@
 redirect_from: "/"
 ---
 
-# Confursion WIki
+# Welcome to the Confursion Wiki
 
 *...under construction...*
