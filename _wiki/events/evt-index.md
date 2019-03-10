@@ -6,7 +6,7 @@ permalink: "/events/"
 
 # Events
 
-### The things that happened in the land of Confursion
+### The moments that shape the land of Confursion
 
 <div class="event-timeline" markdown="1">
 
