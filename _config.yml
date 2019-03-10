@@ -139,3 +139,47 @@ inc_before_page_list : "confursion/sidebar.html"
 inc_after_page_list : "confursion/footer.html"
 inc_before_post_list :
 inc_after_post_list :
+
+prose:
+  rooturl: '_wiki'
+  siteurl: https://confursion.hokora.page
+  media: 'img'
+  metadata:
+    _wiki:
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'title'
+      - name: 'notoc'
+        field:
+          element: 'checkbox'
+          label: 'No TOC'
+          help: 'Check to remove table of contents'
+      - name: 'noedit'
+        field:
+          element: 'checkbox'
+          label: 'No Edit'
+          help: 'Check to remove edit link'
+      - name: 'infobox'
+        field:
+          element: 'checkbox'
+          label: 'Infobox'
+          help: 'Includes infobox'
+      - name: 'ititle'
+        field:
+          element: 'text'
+          label: 'Infobox Title'
+      - name: 'image'
+        field:
+          element: 'text'
+          label: 'Infobox Image'
+          placeholder: '/img/url_to_image.png'
+      - name: 'caption'
+        field:
+          element: 'text'
+          label: 'Infobox Caption'
+      - name: 'list'
+        field:
+          element: 'textarea'
+          label: 'Infobox Table'
+          help: 'Markdown definition list'
