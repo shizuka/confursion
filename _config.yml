@@ -169,26 +169,29 @@ prose:
         field:
           element: 'text'
           label: 'Infobox Title'
+          placeholder: 'Display Name'
       - name: 'image'
         field:
           element: 'text'
           label: 'Infobox Image'
+          help: 'Note: this will not upload the image for you'
           placeholder: '/img/url_to_image.png'
       - name: 'caption'
         field:
           element: 'text'
           label: 'Infobox Caption'
+          placeholder: 'Description of the image'
       - name: 'list'
         field:
           element: 'textarea'
           label: 'Infobox Table'
           help: 'Markdown definition list'
-          placeholder: |
-            Foo
+          placeholder: | 
+            Thing One
+            
+            : Foo
+
+
+            Thing Two
 
             : Bar
-
-            
-            Baz
-
-            : Quux
