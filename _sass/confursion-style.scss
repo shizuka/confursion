@@ -1,0 +1,82 @@
+/**
+ * Confursion Wiki Styling
+ */
+
+.actual-footer {
+  font-style: italic;
+  font-size: 0.8em;
+
+  a {
+    font-style: normal;
+    padding-left: 3px;
+  }
+}
+
+.infobox {
+  border: 1px solid #777777;
+  border-spacing: 3px;
+  border-radius: 4px;
+  background-color: #ffffff;
+
+  float: right;
+  width: 22rem;
+  margin: 0.5em 0 0.5em 1em;
+
+  .ib-header {
+    background-color: #fcfcfc;
+    border-bottom: 1px solid #777777;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    padding: 10px 15px;
+  }
+
+  .ib-title {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  .ib-subtitle {
+    font-size: 0.9em;
+  }
+
+  .ib-content {
+    padding: 10px;
+  }
+
+  .ib-image {
+    text-align: center;
+    padding-bottom: 10px;
+
+    img {
+      border-radius: 4px;
+    }
+  }
+
+  .ib-caption {
+    padding-top: 3px;
+    font-style: italic;
+  }
+
+  dl {
+    margin: 0;
+    dt {
+      float: left;
+      clear: left;
+      font-weight: bold;
+      padding: 5px 0;
+      margin-right: 10px;
+      width: 100px;
+    }
+    dd {
+      margin: 2px 0;
+      padding: 5px 0;
+    }
+  }
+  &:after {
+    visibility: hidden;
+    display: block;
+    content: "";
+    clear: both;
+    height: 0;
+  }
+}

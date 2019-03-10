@@ -110,13 +110,13 @@ plugins:
 #
 
 inc_before_toc : 
-inc_after_toc : 
+inc_after_toc : "confursion/infobox.html"
 inc_before_content : 
 inc_after_content : 
 inc_before_footer : 
 inc_after_footer : 
 inc_before_head : 
-inc_after_head : "confursion/headstuff.html"
+inc_after_head : "confursion/head.html"
 inc_before_meta : 
 inc_after_meta : 
 inc_before_scripts : 
@@ -130,7 +130,7 @@ inc_after_tail :
 inc_before_tools : 
 inc_after_tools : 
 
-inc_before_page_list :
-inc_after_page_list :
+inc_before_page_list : "confursion/sidebar.html"
+inc_after_page_list : "confursion/footer.html"
 inc_before_post_list :
 inc_after_post_list :
