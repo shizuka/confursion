@@ -25,7 +25,7 @@ show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "confursionpaw-512.png"
+logo_url: "/confursionpaw-512.png"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
@@ -63,12 +63,17 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+collections:
+  wiki:
+    permalink: /:path
+    output: true
+
 defaults:
- - 
-    scope:
-      path: "wiki"
-    values:
-      permalink: /:basename
+# - 
+#    scope:
+#      path: "wiki"
+#    values:
+#      permalink: /:path/:basename
  -
     scope:
       path: "" # an empty string here means all files in the project

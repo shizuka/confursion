@@ -1,15 +1,15 @@
 ---
-infobox:
-  title: Title
-  subtitle: Subtitle
-  image: https://picsum.photos/512
-  caption: Placeholder image
-  list: |
-    foo
-    : [bar](/)
+title: Page w/ Infobox
+infobox: true
+subtitle: Subtitle
+image: https://picsum.photos/512
+caption: Placeholder image
+list: |
+  foo
+  : [bar](/)
 
-    baz
-    : quux
+  baz
+  : quux
 ---
 
 # An h1 header

@@ -1,21 +1,27 @@
-{% if page.infobox.size > 0 %}
+{% if page.infobox == true or page.image.size > 0 %}
 <div class="infobox">
-  {% if page.infobox.title.size > 0 %}
+  {% if page.title.size > 0 %}
   <div class="ib-header">
-    <div class="ib-title">{{ page.infobox.title }}</div>
-    {% if page.infobox.subtitle.size > 0 %}<div class="ib-subtitle">{{ page.infobox.subtitle }}</div>{% endif %}
+    <div class="ib-title">
+      {% if page.ititle.size > 0 %}
+      {{ page.ititle }}
+      {% else %}
+      {{ page.title }}
+      {% endif %}
+    </div>
+    {% if page.subtitle.size > 0 %}<div class="ib-subtitle">{{ page.subtitle |markdownify }}</div>{% endif %}
   </div>
   {% endif %}
   <div class="ib-content">
-    {% if page.infobox.image.size > 0 %}
+    {% if page.image.size > 0 %}
     <div class="ib-image">
-      <img src="{{ page.infobox.image }}" alt="{{ page.infobox.caption }}">
-      {% if page.infobox.caption.size > 0 %}<div class="ib-caption">{{ page.infobox.caption }}</div>{% endif %}
+      <img src="{{ page.image }}" alt="{{ page.caption }}">
+      {% if page.caption.size > 0 %}<div class="ib-caption">{{ page.caption | markdownify }}</div>{% endif %}
     </div>
     {% endif %}
-    {% if page.infobox.list.size > 0 %}
+    {% if page.list.size > 0 %}
     <div class="ib-list">
-      {{ page.infobox.list | markdownify }}
+      {{ page.list | markdownify }}
     </div>
     {% endif %}
   </div>

@@ -22,6 +22,11 @@
   width: 22rem;
   margin: 0.5em 0 0.5em 1em;
 
+  p {
+    margin: 0;
+    padding: 0;
+  }
+
   .ib-header {
     background-color: #fcfcfc;
     border-bottom: 1px solid #777777;
@@ -78,5 +83,14 @@
     content: "";
     clear: both;
     height: 0;
+  }
+}
+
+.wiki-page-list {
+  li {
+    font-size: 1.5em;
+  }
+  p {
+    font-style: italic;
   }
 }
