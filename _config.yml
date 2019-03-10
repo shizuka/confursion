@@ -183,3 +183,12 @@ prose:
           element: 'textarea'
           label: 'Infobox Table'
           help: 'Markdown definition list'
+          placeholder: |
+            Foo
+
+            : Bar
+
+            
+            Baz
+
+            : Quux
