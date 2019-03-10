@@ -1,7 +1,6 @@
 ---
 title: Luna
 infobox: true
-image: https://picsum.photos/1024
 list: |
   Species
   : Cat

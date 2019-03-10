@@ -2,7 +2,7 @@
 title: Shizuka
 infobox: true
 ititle: Shizuka Valenheart
-image: https://picsum.photos/256
+image: /img/pfp-shizuka.png
 list: |
   Species
   : Rabbit
