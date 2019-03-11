@@ -1,3 +1,17 @@
+---
+title: Shiny
+infobox: true
+list: |
+  Species
+  : Cat
+
+  Gender
+  : Male
+
+  Fur Color
+  : Calico
+---
+
 Shiny
 =======
 
