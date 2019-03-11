@@ -5,13 +5,13 @@
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/_wiki/{{url | remove: '.html' | append: ''}}/_history">History</a></span>
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/_wiki/{{url | remove: '.html' | append: '.md'}}/">Source</a></span>
     {% else %}
-    {% comment %}
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch}}?filename={{ site.wiki_folder | default: '_wiki' }}/">Add new</a></span>
+    {% unless page.noedit == true %}
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/edit/{{site.git_branch}}/{{page.path}}">Edit</a></span>
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/delete/{{site.git_branch}}/{{page.path}}">Delete</a></span>
+    {% endunless %}
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}/{{page.path}}">History</a></span>
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}/{{page.path}}">Source</a></span>
-    {% endcomment %}
     {% if site.blog_feature %}
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch}}?filename=_posts/">Add new post</a></span>
     {% endif %}
