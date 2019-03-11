@@ -4,6 +4,7 @@
     {% unless dir == arrpath.last %}
     {% capture pagedir %}{{ pagedir }}/{{dir}}{% endcapture %}
     {% endunless %}
+    {% endfor %}
     {% if site.use_github_wiki %}
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/_wiki/_new">Add new</a></span>
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/_wiki/{{url | remove: '.html' | append: ''}}/_edit">Edit</a></span>
@@ -21,7 +22,6 @@
     <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch}}?filename=_posts/">Add new post</a></span>
     {% endif %}
     {% if site.use_prose_io %}
-    {% endfor %}
     <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/new/{{site.git_branch}}/{{ pagedir | remove_first: '/' | append: '/CHANGEME.md' }}">Add new</a></span>
     {%unless page.noedit == true %}<span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch}}/{{page.path}}">Edit</a></span>{% endunless %}
     {% if site.blog_feature %}
