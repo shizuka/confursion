@@ -20,7 +20,7 @@ Jane Doe
 
 Jane Doe is a sika deer who works as a journalist for the commune. She has golden brown fur, dark brown eyes, and three points on each antler.
 
-Jane is deaf and she is fluent in American Sign Language and English.
+Jane is Deaf and she is fluent in American Sign Language and English.
 
 ---
 
