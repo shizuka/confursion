@@ -7,8 +7,10 @@ info:
   Gender: Male
   Colors:
     - Calico
-  Eye Color: "?"
-  Height: "?"
+  Eye Color:
+    - Green
+  Height: 
+    - 5'
 ---
 
 Shiny
@@ -20,7 +22,7 @@ Shiny is a calico tomcat with green eyes.
 
 He woke up one day to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy tail.
 
-Not exactly the type of thing you can hide for long.
+Not exactly the type of thing you can hide for too long.
 
 ---
 
