@@ -11,4 +11,9 @@ info:
 ---
 
 # Furryhole Commune
+---
+## Areas
+  * Great Room
+  * Cafeteria
+  * Sleeping Quarters
 
