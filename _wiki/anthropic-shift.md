@@ -7,18 +7,14 @@ image: /img/foxtf-by-roina.png
 caption:
   A young woman undergoing the shift
   <br> Art by [Roina](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=73111346)
-list: |
-  Symptoms
-  : Fur growth, features growth, personality changes
-
-  Onset
-  : Unknown
-
-  Duration
-  : ~2-4 weeks, varies by form
-
-  Frequency
-  : ~1000 per year
+info:
+  Symptoms:
+    - Fur growth
+    - Tail and/or ear changes
+    - Personality changes
+  Onset: Unknown
+  Duration: "~2-4 weeks, varies by form"
+  Incidence: "~1% population"
 ---
 
 ## Anthropic Shift

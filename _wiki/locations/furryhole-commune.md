@@ -6,9 +6,9 @@ title: Furryhole Commune
 subtitle: Home of the Furries
 image: /img/commune-greatroom.jpg
 caption: Great room of the main lodge
-list: |
-  Location
-  : Near Seattle, WA
+info:
+  Location: "Near Seattle, WA"
+  Population: "?"
 ---
 
 # Furryhole Commune

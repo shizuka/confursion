@@ -1,15 +1,15 @@
 ---
 title: Luna
 infobox: true
-list: |
-  Species
-  : Cat
-
-  Gender
-  : Female
-
-  Fur Color
-  : Black
+info:
+  Species: Cat
+  Gender: Female
+  Colors:
+    - Black
+    - Silver
+  Eye Color: "?"
+  Height: "?"
 ---
 
 # Luna
+

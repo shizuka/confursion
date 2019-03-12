@@ -1,15 +1,13 @@
 ---
 title: Shiny
 infobox: true
-list: |
-  Species
-  : Cat
-
-  Gender
-  : Male
-
-  Fur Color
-  : Calico
+info:
+  Species: Cat
+  Gender: Male
+  Colors:
+    - Calico
+  Eye Color: "?"
+  Height: "?"
 ---
 
 Shiny

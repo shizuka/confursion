@@ -36,8 +36,4 @@ Places to go and things to see when you've turned furry
 
 </div>
 
-Markdown file references:
-
 [Markup Sample Page](/markup)
-
-[Another Sample Page with Infobox](/pagewinfobox)

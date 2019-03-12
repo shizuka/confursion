@@ -10,6 +10,15 @@ list: |
 
   Fur Color
   : Brown
+info:
+  Species: Otter
+  Gender: Female
+  Colors:
+    - Brown
+    - Blue
+  Eye Color: Green
+  Height: "?"
 ---
 
 # Marina
+

@@ -1,5 +1,19 @@
 ---
-notoc: true
+title: Markup
+noedit: true
+infobox: true
+ititle: Markup Sample
+subtitle: Subtitle
+image: https://picsum.photos/512
+caption: Image caption
+info:
+  Key: Value
+  Foo: Bar
+  Baz:
+    - Fred
+    - Barney
+    - Wilma
+  Quux: "[Linkable too](/)"
 ---
 
 ## HTML Elements

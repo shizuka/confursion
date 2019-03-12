@@ -25,5 +25,20 @@
     </div>
     {% endif %}
   </div>
+  {% if page.info.size > 0 %}
+  <table class="ib-table"><tbody>
+    {% for item in page.info %}
+    <tr>
+      <th scope="row">{{ item[0] }}</th>
+      <td>
+        <ul>
+          {% for bullet in item[1] %}<li>{{ bullet | markdownify }}</li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody></table>
+  {% endif %}
 </div>
 {% endif %}

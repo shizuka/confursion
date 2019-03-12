@@ -3,15 +3,17 @@ title: Shizuka
 infobox: true
 ititle: Shizuka Valenheart
 image: /img/pfp-shizuka.png
-list: |
-  Species
-  : Rabbit
-  
-  Gender
-  : Female
-
-  Fur Color
-  : Tan
+caption: caption
+info:
+  Species: Rabbit
+  Gender: Female
+  Colors:
+    - Tan fur
+    - Cream belly fur
+    - Orange hair/ears
+  Eye Color: Blue
+  Height: 5'4"
 ---
 
-# Shizuka
+# Shizuka Valenheart
+

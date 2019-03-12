@@ -2,15 +2,13 @@
 title: Jane
 infobox: true
 ititle: Jane Doe
-list: |
-  Species
-  : Deer
-
-  Gender
-  : Female
-
-  Fur Color
-  : Golden brown
+info:
+  Species: Deer
+  Gender: Female
+  Colors:
+    - Golden brown
+  Eye Color: "?"
+  Height: "?"
 ---
 
 Jane Doe

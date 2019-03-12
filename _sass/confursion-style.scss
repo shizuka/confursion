@@ -77,6 +77,35 @@
       padding: 5px 0;
     }
   }
+
+  table {
+    font-size: 88%;
+    line-height: 1.5em;
+    margin: 0 0 10px 0;
+    
+    tr, th, td {
+      vertical-align: top;
+      border: none;
+    }
+
+    th {
+      width: 8rem;
+      padding: 0 5px 0px 10px;
+    }
+    td {
+      padding: 0 0 5px 0;
+    }
+
+    ul {
+      margin: 0;
+      padding: 0;
+    }
+    li {
+      list-style-type: none;
+      padding: 0 0 5px 0;
+    }
+  }
+
   &:after {
     visibility: hidden;
     display: block;
