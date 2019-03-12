@@ -2,23 +2,14 @@
 title: Marina
 author: Shizuka
 infobox: true
-list: |
-  Species
-  : Otter
-
-  Gender
-  : Female
-
-  Fur Color
-  : Brown
 info:
   Species: Otter
   Gender: Female
   Colors:
-    - Brown
-    - Blue
-  Eye Color: Green
-  Height: "?"
+    - Brown fur
+    - Blue back stripe
+    - Green eyes
+  Height: 5'9"
 ---
 
 # Marina

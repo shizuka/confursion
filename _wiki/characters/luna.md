@@ -6,10 +6,10 @@ info:
   Species: Cat
   Gender: Female
   Colors:
-    - Black
-    - Silver
-  Eye Color: "?"
-  Height: "?"
+    - Black fur
+    - Silver undercoat
+    - Yellow eyes
+  Height: 5'6"
 ---
 
 # Luna

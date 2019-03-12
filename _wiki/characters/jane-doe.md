@@ -7,11 +7,9 @@ info:
   Species: Sika deer
   Gender: Female
   Colors:
-    - Golden brown
-  Eye Color: 
-    - Dark brown
-  Height: 
-    - 6'
+    - Golden brown fur
+    - Dark brown eyes
+  Height: 6'
 ---
 
 Jane Doe

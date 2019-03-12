@@ -6,11 +6,9 @@ info:
   Species: Cat
   Gender: Male
   Colors:
-    - Calico
-  Eye Color:
-    - Green
-  Height: 
-    - 5'
+    - Calico fur
+    - Green eyes
+  Height: 5'
 ---
 
 Shiny

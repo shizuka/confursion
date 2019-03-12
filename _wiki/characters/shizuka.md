@@ -12,9 +12,8 @@ info:
     - Tan fur
     - Cream belly fur
     - Orange hair/ears
-  Eye Color: Blue
+    - Blue eyes
   Height: 5'4"
 ---
 
 # Shizuka Valenheart
-
