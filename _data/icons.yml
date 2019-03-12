@@ -1,0 +1,8 @@
+#####################
+# Page Category Icons
+#####################
+
+characters: "fas fa-user"
+documents: "far fa-file-alt"
+events: "far fa-calendar-alt"
+locations: "fas fa-map-marker-alt"

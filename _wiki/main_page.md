@@ -16,22 +16,22 @@ The Furry Confursion has begun.
 
 <div class="main-page-list" markdown="1">
 
-### [Stories](https://shizuka.hokora.page/categories/#confursion)
+### <span class="fas fa-book fa-fw"></span> [Stories](https://shizuka.hokora.page/categories/#confursion)
 Official writings from the bunny herself
 
-### [The Anthropic Shift](/anthropic-shift)
+### <span class="fas fa-paw fa-fw"></span> [The Anthropic Shift](/anthropic-shift)
 What we know about the great furry transformation
 
-### [Characters](/characters/)
+### <span class="{{ site.data.icons.characters }} fa-fw"></span> [Characters](/characters/)
 The people and groups that inhabit this new slightly furry world
 
-### [Documents](/documents/)
+### <span class="{{ site.data.icons.documents }} fa-fw"></span> [Documents](/documents/)
 Messages from within the universe, be they articles or short spinoffs
 
-### [Events](/events/)
+### <span class="{{ site.data.icons.events }} fa-fw"></span> [Events](/events/)
 The moments that shaped the land of Confursion
 
-### [Locations](/locations/)
+### <span class="{{ site.data.icons.locations }} fa-fw"></span> [Locations](/locations/)
 Places to go and things to see when you've turned furry
 
 </div>

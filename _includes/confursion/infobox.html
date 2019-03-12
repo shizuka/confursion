@@ -1,7 +1,9 @@
 {% if page.infobox == true or page.image.size > 0 %}
 <div class="infobox">
   {% if page.title.size > 0 %}
-  <div class="ib-header">
+  {% assign dir = pagedir | remove: '_wiki' | remove: "/" %}
+  <div class="ib-header {{ dir }}">
+    {% if dir.size > 0 %}<a href="/{{ dir }}/" class="ib-icon"><span class="{{ site.data.icons.[dir] }}"></span></a>{% endif %}
     <div class="ib-title">
       {% if page.ititle.size > 0 %}
       {{ page.ititle }}
