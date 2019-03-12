@@ -1,5 +1,6 @@
 ---
 title: Shiny
+author: Shiny
 infobox: true
 info:
   Species: Cat

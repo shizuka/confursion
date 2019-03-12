@@ -1,5 +1,6 @@
 ---
 title: Shizuka
+author: Shizuka
 infobox: true
 ititle: Shizuka Valenheart
 image: /img/pfp-shizuka.png

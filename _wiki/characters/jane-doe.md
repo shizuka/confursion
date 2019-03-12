@@ -1,5 +1,6 @@
 ---
 title: Jane
+author: Shiny
 infobox: true
 ititle: Jane Doe
 info:

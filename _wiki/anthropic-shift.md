@@ -1,6 +1,7 @@
 ---
 permalink: "/anthropic-shift"
 title: Anthropic Shift
+author: Shizuka
 infobox: true
 subtitle: 'AKA: *confursion, furry plague, furry TF*'
 image: /img/foxtf-by-roina.png

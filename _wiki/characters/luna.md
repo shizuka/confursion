@@ -1,5 +1,6 @@
 ---
 title: Luna
+author: Shizuka
 infobox: true
 info:
   Species: Cat
