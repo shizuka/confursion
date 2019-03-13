@@ -3,8 +3,8 @@ title: Furhaven
 author: Shizuka
 infobox: true
 subtitle: Home of the Furries
-image: /img/commune-greatroom.jpg
-caption: Great room of the main lodge
+image: /img/furhaven-map-village.png
+caption: Map of Furhaven Valley proper
 info:
   Location: "Near Seattle, WA"
   Population: "?"
@@ -40,7 +40,9 @@ consists of a forge and sawmill, a small nondenominational church, an inn and
 tavern, and a medical clinic dedicated to anthro physiology. A few miscellaneous
 shop buildings round out the village, and a collection of cabins climbs the
 valley wall above. A shuttle train passes under the mountain to connect Furhaven
-to Gateway Valley, and to the Iron Dragon Railway beyond.
+to Gateway Valley, and to the Iron Dragon Railway beyond. The lake drains into a
+waterfall before continuing on into the mountains, and a hydroelectric station
+draws some power for the village.
 
 
 ## Spirit
