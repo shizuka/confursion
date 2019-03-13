@@ -9,10 +9,8 @@ info:
   Colors:
     - ?
     - ?
-    
   Height: 6'2"
-  Relationships: Jane Doe, girlfriend.
-  Unnamed Child
+  Relationships: Jane Doe, girlfriend. Unnamed Child
   
 ---
 
