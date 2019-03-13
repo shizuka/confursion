@@ -6,8 +6,9 @@ info:
   Species: Deer
   Gender: Female
   Colors: 
-    - "?"
-  Height: "?"
+    - Brown fur
+    - Orange hair
+  Height: 6'2"
   Occupation: "Masseuse, [Softpaws Clinic](/locations/furhaven-clinic)"
 ---
 

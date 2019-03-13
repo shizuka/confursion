@@ -2,12 +2,14 @@
 title: Jewel
 infobox: true
 ititle: Jewel Wolfe
+image: /img/pfp-jewel.jpg
 info:
   Species: Wolf
-  Gender: "?"
+  Gender: Female
   Colors: 
-    - "?"
-  Height: "?"
+    - White fur
+    - Blue hair
+  Height: 5'4"
   Occupation: "Innkeeper, [Hoptimism](/locations/furhaven-tavern)"
 ---
 

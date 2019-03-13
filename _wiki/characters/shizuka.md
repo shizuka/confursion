@@ -4,7 +4,6 @@ author: Shizuka
 infobox: true
 ititle: Shizuka Valenheart
 image: /img/pfp-shizuka.png
-caption: caption
 info:
   Species: Rabbit
   Gender: Female
@@ -15,6 +14,8 @@ info:
     - Blue eyes
   Height: 5'4"
   Occupation: "Owner, [Hoptimism](/locations/furhaven-tavern)"
+  Relationships:
+    - "Rachel, familiar"
 ---
 
 # Shizuka Valenheart
