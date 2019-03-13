@@ -4,7 +4,7 @@ author: Shiny
 infobox: true
 ititle: Jane Doe
 info:
-  Species: [Sika deer](https://en.wikipedia.org/wiki/Sika_deer)
+  Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
   Gender: Female
   Colors:
     - Golden brown fur
