@@ -7,9 +7,9 @@ info:
   Species: Tiger
   Gender: Male
   Colors: 
-    - Orange fur
+    - Pink fur
     - White undercoat
-    - Orange/white hair
+    - Pink/white hair
   Height: 5'1"
   Occupation: "Barista, [Cattail Coffeehouse](/locations/furhaven-coffeeshop)"
 ---
