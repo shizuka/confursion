@@ -8,7 +8,7 @@ info:
   Gender: Female
   Colors: 
     - Yellow fur
-    - Orange hair
+    - Red hair
   Height: 4'0"
   Occupation: "Innkeeper, [Hoptimism](/locations/furhaven-tavern)"
 ---
