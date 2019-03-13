@@ -4,7 +4,9 @@ infobox: true
 subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
   Location: "[Furhaven Valley](/locations/furhaven)"
-  Owners:
+  Staff:
+    - "[Jane Doe](/characters/jane-doe) - Researcher"
+    - "Velvet - Masseuse"
     - "?"
 ---
 

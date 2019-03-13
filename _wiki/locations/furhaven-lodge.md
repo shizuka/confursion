@@ -6,7 +6,7 @@ image: /img/commune-greatroom.jpg
 caption: Great room at the Lodge
 info:
   Location: "[Furhaven Valley](/locations/furhaven)"
-  Owners:
+  Staff:
     - "?"
   Capacity: "60"
 ---

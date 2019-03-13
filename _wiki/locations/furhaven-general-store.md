@@ -5,8 +5,8 @@ subtitle: "Gateway Valley"
 info:
   Location: "[Furhaven Valley](/locations/furhaven)"
   Owners:
-    - Aty
-    - "[Shiny](/characters/shiny)"
+    - "[Shiny](/characters/shiny) - Owner"
+    - "Aty - Shopkeeper"
 ---
 
 # Pawsitively Everything

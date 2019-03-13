@@ -4,10 +4,11 @@ infobox: true
 subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
   Location: "[Furhaven Valley](/locations/furhaven)"
-  Owners:
-    - "[Shizuka Valenheart](/characters/shizuka)"
-    - "?"
-  Bartender: "?"
+  Staff:
+    - "[Shizuka Valenheart](/characters/shizuka) - Owner"
+    - "[Marina](/characters/marina) - Bartender"
+    - "Jewel Wolfe - Innkeeper"
+    - "Trace Lun - Innkeeper"
 ---
 
 # Hoptimism Inn and Tavern
