@@ -59,14 +59,15 @@ village.
 ## Locations
 
 - Gateway Valley
-  - Cattail Coffee
-  - Pawsitively Everything General Store
-  - Iron Dragon Railway
+  - [Cattail Coffee](/locations/furhaven-coffeeshop)
+  - [Pawsitively Everything General Store](/locations/furhaven-general-store)
+  - [Iron Dragon Railway](/locations/furhaven-railway)
 - Furhaven Valley
-  - Great Lodge
-  - Dragonfire Forge
-  - Beaver Bellows Sawmill
-  - Hoptimism Inn and Tavern
-  - Church
-  - Softpaws Clinic
-  - Tailor's Tails
+  - [Great Lodge](/locations/furhaven-lodge)
+  - [Dragonfire Forge](/locations/furhaven-forge)
+  - [Beaver Bellows Sawmill](/locations/furhaven-sawmill)
+  - [Hoptimism Inn and Tavern](/locations/furhaven-tavern)
+  - [Furhaven Town Hall](/locations/furhaven-hall)
+  - [Softpaws Clinic](/locations/furhaven-clinic)
+- Spirit Valley
+  - Greenhouses
