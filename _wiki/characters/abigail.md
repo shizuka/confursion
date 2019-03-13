@@ -2,7 +2,7 @@
 title: Abigail
 author: Shiny
 infobox: true
-ititle: Jane Doe
+ititle: Abigail
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
   Gender: Female
