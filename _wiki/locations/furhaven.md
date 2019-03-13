@@ -8,6 +8,7 @@ caption: Map of Furhaven Valley proper
 info:
   Location: "Near Seattle, WA"
   Population: "?"
+  Mayor: "[Cadey](/characters/cadey)"
 ---
 
 # Furhaven Valley
