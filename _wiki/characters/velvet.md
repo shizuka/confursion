@@ -2,6 +2,7 @@
 title: Velvet
 infobox: true
 ititle: Velvet
+image: /img/Velvet.png
 info: 
   Species: Deer
   Gender: Female
