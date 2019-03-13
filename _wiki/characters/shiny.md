@@ -9,7 +9,9 @@ info:
     - Calico fur
     - Green eyes
   Height: 5'
-  Relationships: Boyfriend
+  Occupation: "Owner, [Pawsitively Everything](/locations/furhaven-general-store)"
+  Relationships:
+    - "Boyfriend"
 ---
 
 Shiny

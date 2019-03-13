@@ -10,6 +10,7 @@ info:
     - White undercoat
     - Green eyes
   Height: 5'9"
+  Occupation: "Bartender, [Hoptimism](/locations/furhaven-tavern)"
 ---
 
 # Marina

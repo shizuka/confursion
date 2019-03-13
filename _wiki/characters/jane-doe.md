@@ -10,12 +10,12 @@ info:
     - Golden brown fur
     - Dark brown eyes
   Height: 6'
-  Relationships: Abigail, girlfriend.
-  
+  Occupation: "Owner, [Softpaws Clinic](/locations/furhaven-clinic)"
+  Relationships:
+    - "Abigail, girlfriend"
 ---
 
-Jane Doe
-=======
+# Jane Doe
 
 ## Bio
 

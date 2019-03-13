@@ -10,12 +10,13 @@ info:
     - "?"
     - "?"
   Height: 6'2"
-  Relationships: Jane Doe, girlfriend. Unnamed Child
-  
+  Occupation: "?"
+  Relationships:
+    - "Jane Doe, girlfriend"
+    - "Unnamed Child"
 ---
 
-Abigail
-=======
+# Abigail
 
 ## Bio
 

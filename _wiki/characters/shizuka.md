@@ -14,6 +14,7 @@ info:
     - Orange hair/ears
     - Blue eyes
   Height: 5'4"
+  Occupation: "Owner, [Hoptimism](/locations/furhaven-tavern)"
 ---
 
 # Shizuka Valenheart
