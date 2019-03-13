@@ -10,7 +10,8 @@ info:
     - Golden brown fur
     - Dark brown eyes
   Height: 6'
-  RELATIONSHIPS: Abigail, girlfriend.
+  Relationships: Abigail, girlfriend.
+  
 ---
 
 Jane Doe
