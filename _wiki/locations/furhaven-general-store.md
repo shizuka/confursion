@@ -1,7 +1,7 @@
 ---
 title: Pawsitively Everything
 infobox: true
-subtitle: "[Furhaven Valley](/locations/furhaven)"
+subtitle: "Gateway Valley"
 info:
   Location: "[Furhaven Valley](/locations/furhaven)"
   Owners:
