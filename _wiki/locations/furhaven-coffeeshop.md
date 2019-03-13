@@ -1,9 +1,9 @@
 ---
 title: Cattail Coffeehouse
 infobox: true
-subtitle: "Gateway Valley"
+subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
-  Location: "[Furhaven Valley](/locations/furhaven)"
+  Location: "Gateway Valley"
   Staff:
     - "Joyce - Owner"
     - "Zack - Barista"

@@ -3,7 +3,7 @@ title: Hoptimism Inn and Tavern
 infobox: true
 subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
-  Location: "[Furhaven Valley](/locations/furhaven)"
+  Location: "Furhaven Valley"
   Staff:
     - "[Shizuka Valenheart](/characters/shizuka) - Owner"
     - "[Marina](/characters/marina) - Bartender"

@@ -1,9 +1,9 @@
 ---
 title: Pawsitively Everything
 infobox: true
-subtitle: "Gateway Valley"
+subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
-  Location: "[Furhaven Valley](/locations/furhaven)"
+  Location: "Gateway Valley"
   Owners:
     - "[Shiny](/characters/shiny) - Owner"
     - "Aty - Shopkeeper"

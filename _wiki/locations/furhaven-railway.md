@@ -1,9 +1,9 @@
 ---
 title: Iron Dragon Railway
 infobox: true
-subtitle: Gateway Valley
+subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
-  Location: "[Furhaven Valley](/locations/furhaven)"
+  Location: "Gateway Valley"
   Type: Multimodal rail
   Serves:
     - Furhaven Valley
