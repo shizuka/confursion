@@ -17,9 +17,9 @@ info:
 east of Seattle, Washington. Originally founded by a group of internet friends
 as a gathering place after their shifts, the commune evolved to become a safe
 haven for any anthro finding themselves cast out of their former lives.
-Construction began several months after the Outbreak, with much of the main
-village completed a year later. The settlement properly consists of three
-neighboring valleys: Gateway, Furhaven, and Spirit.
+Construction began several months after the [Outbreak](/events/outbreak), with
+much of the main village completed a year later. The settlement properly
+consists of three neighboring valleys: Gateway, Furhaven, and Spirit.
 
 
 ## Gateway

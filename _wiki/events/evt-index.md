@@ -10,19 +10,19 @@ permalink: "/events/"
 
 <div class="event-timeline" markdown="1">
 
+  - date
+    {: .date}
+
+    Event
+
+  - 0 AF
+    {: .date}
+
+    [Outbreak](/events/outbreak) - CEO Maarten van Holstruk reveals himself as the first known anthro
+  
   - Date
     {: .date}
 
-    [Foo](/)
-
-  - Date 2
-    {: .date}
-
-    Bar
-  
-  - Date 3
-    {: .date}
-
-    Baz
+    Event
 
 </div>

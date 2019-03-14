@@ -47,19 +47,21 @@ result was a miracle procedure capable of propagating the desired effects --
 resistance to bone loss and atrophy -- via an artificial viral strain that could
 edit and express the new genes.
 
-Union Aerospace's CEO was eccentric at best, often trying to keep a finger on
-the pulse of social media by jumping into internet trends. At one time, they
-participated in a joke thread about having an anthro alter-ego, leading some to
-speculate Xenomics' research wasn't exclusively for the benefit of spaceflight.
-In early 20XX, it was revealed that the CEO had become the first to undergo the
-anthropic shift, transforming into a cat type anthro. This moment became
-colloquially known as the "first infection", and is since referred to as the
-epoch dividing "BF" (Before Furries) from "AF" (After Furries).
+Union Aerospace's CEO [Maarten van Holstruk](/characters/patient-zero) was
+eccentric at best, often trying to keep a finger on the pulse of social media by
+jumping into internet trends. At one time, they participated in a joke thread
+about having an anthro alter-ego, leading some to speculate Xenomics' research
+wasn't exclusively for the benefit of spaceflight. After a number of months out
+of the public eye, it was revealed that van Holstruk had become the first to
+undergo the anthropic shift, transforming into a marten type anthro. This moment
+became colloquially known as the "first infection", or the
+[Outbreak](/events/outbreak). The fledgling anthro community would mark the date
+as the dividing line for BF and AF -- Before and After Furries.
 
 In reality, Xenomics had encountered test patients undergoing the anthropic
-shift in the several weeks leading up to the CEO's announcement. The CEO had
-indeed attempted to use Xenomics' gene therapy to gain cat-like traits. By the
-bad luck of history, the alterations necessary to induce the development of
+shift in the several weeks leading up to van Holstruk's announcement. Maarten
+had indeed attempted to use Xenomics' gene therapy to gain cat-like traits. By
+the bad luck of history, the alterations necessary to induce the development of
 animal traits were sufficiently similar to the spaceflight traits that the gene
 therapy's viral payload incorporated them both. Xenomics fell into a frenzy of
 research, simultaneously attempting to remove the anthro changes from their
@@ -69,9 +71,9 @@ circumstances, the gene therapy became contagious beyond their patients. Before
 long, it had breached containment at Xenomics' research facility, and spread at
 a terrifying pace. Internal studies showed the therapy strain, now known as the
 anthropic plague, had managed to infect the entire city around the facility.
-Union Aerospace recommended the CEO go public to get ahead of the news cycle,
-and within a week the first reports of anthropic shift had arisen all over the
-world.
+Union Aerospace recommended van Holstruk go public to get ahead of the news
+cycle, and within a week the first reports of anthropic shift had arisen all
+over the world.
 
 
 ## Transformation
