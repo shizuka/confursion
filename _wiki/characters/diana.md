@@ -2,7 +2,7 @@
 title: Diana
 infobox: true
 info:
-  Species: "?"
+  Species: Fox
   Gender: Female
   Colors:
     - "?"
