@@ -3,8 +3,9 @@ title: Marina Hasenkamp
 author: Shizuka
 infobox: true
 info:
-  Species: Red fox
+  Species: "[Red fox](https://en.wikipedia.org/wiki/Red_fox)"
   Gender: Female
+  Age: "?"
   Colors:
     - Red-brown fur
     - White undercoat
