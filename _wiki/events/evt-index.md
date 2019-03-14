@@ -18,7 +18,7 @@ permalink: "/events/"
   - 0 AF
     {: .date}
 
-    [Outbreak](/events/outbreak) - CEO Maarten van Holstruk reveals himself as the first known anthro
+    [Outbreak](/events/outbreak) - first public anthropic shift
   
   - Date
     {: .date}
