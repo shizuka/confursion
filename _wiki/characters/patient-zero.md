@@ -6,7 +6,7 @@ subtitle: "[Patient Zero](/events/outbreak)"
 image: /img/pfp-maarten.jpg
 caption: CEO van Holstruk after the shift
 info:
-  Species: Marten
+  Species: "[Marten](https://en.wikipedia.org/wiki/Marten)"
   Gender: Male
   Colors:
     - Light brown fur
