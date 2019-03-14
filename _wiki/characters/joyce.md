@@ -1,5 +1,5 @@
 ---
-title: Joyce Lun
+title: Joyce Lün
 infobox: true
 image: /img/pfp-joyce.png
 info: 
@@ -13,4 +13,4 @@ info:
   Occupation: "Owner, [Cattail Coffeehouse](/locations/furhaven-coffeeshop)"
 ---
 
-# Joyce Lun
+# Joyce Lün
