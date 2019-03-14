@@ -2,7 +2,7 @@
 title: Diana
 infobox: true
 info:
-  Species: "[Fox](https://en.wikipedia.org/wiki/Fox)
+  Species: "[Fox](https://en.wikipedia.org/wiki/Fox)"
   Gender: Female
   Colors:
     - "?"
