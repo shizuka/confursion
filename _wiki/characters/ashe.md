@@ -2,7 +2,7 @@
 title: Ashe
 infobox: true
 info: 
-  Species: Snow leopard
+  Species: "[Snow leopard](https://en.wikipedia.org/wiki/Snow_leopard)"
   Gender: Female
   Colors: 
     - White fur
