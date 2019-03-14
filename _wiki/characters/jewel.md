@@ -9,7 +9,7 @@ info:
     - White fur
     - Blue hair
   Height: 5'4"
-  Occupation: "Innkeeper, [Hoptimism](/locations/furhaven-tavern)"
+  Occupation: "Innkeeper, [Hoptimism Inn](/locations/furhaven-tavern)"
 ---
 
 # Jewel Wolfe

@@ -9,7 +9,7 @@ info:
     - Brown fur
     - Orange hair
   Height: 6'2"
-  Occupation: "Masseuse, [Softpaws Clinic](/locations/furhaven-clinic)"
+  Occupation: "Therapist, [Softpaws Clinic](/locations/furhaven-clinic)"
 ---
 
 # Velvet

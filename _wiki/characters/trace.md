@@ -9,7 +9,7 @@ info:
     - Yellow fur
     - Red hair
   Height: 4'0"
-  Occupation: "Innkeeper, [Hoptimism](/locations/furhaven-tavern)"
+  Occupation: "Innkeeper, [Hoptimism Inn](/locations/furhaven-tavern)"
 ---
 
 # Trace Lun

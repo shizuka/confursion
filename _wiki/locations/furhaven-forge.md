@@ -5,7 +5,7 @@ subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
   Location: "Furhaven Valley"
   Owners:
-    - "Zach Smith - Owner"
+    - "Zach Smith, owner"
     - "Bob"
     - "Jon"
     - "?"

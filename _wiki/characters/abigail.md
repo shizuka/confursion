@@ -2,7 +2,6 @@
 title: Abigail
 author: Shiny
 infobox: true
-ititle: Abigail
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
   Gender: Female
@@ -12,7 +11,7 @@ info:
   Height: 6'2"
   Occupation: "?"
   Relationships:
-    - "Jane Doe, girlfriend"
+    - "[Jane Doe](/characters/jane-doe), girlfriend"
     - "Unnamed Child"
 ---
 

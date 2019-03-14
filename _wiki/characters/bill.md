@@ -1,14 +1,13 @@
 ---
 title: Bill
 infobox: true
-ititle: Bill
 info: 
   Species: Rat
   Gender: Male
   Colors: 
     - "?"
   Height: "?"
-  Occupation: Scientist
+  Occupation: "Scientist, [Softpaws Clinic](/locations/furhaven-clinic)"
 ---
 
 # Bill

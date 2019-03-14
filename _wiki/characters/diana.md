@@ -7,7 +7,7 @@ info:
   Colors:
     - "?"
   Height: "?"
-  Occupation: "?"
+  Occupation: "Bartender, [Hoptimism Tavern](/locations/furhaven-tavern)"
 ---
 
 # Diana

@@ -1,7 +1,6 @@
 ---
 title: Ashe
 infobox: true
-ititle: Ashe
 info: 
   Species: Snow leopard
   Gender: Female

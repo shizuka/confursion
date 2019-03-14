@@ -10,7 +10,7 @@ info:
     - White undercoat
     - Green eyes
   Height: 5'9"
-  Occupation: "Bartender, [Hoptimism](/locations/furhaven-tavern)"
+  Occupation: "Bartender, [Hoptimism Tavern](/locations/furhaven-tavern)"
 ---
 
 # Marina Hasenkamp

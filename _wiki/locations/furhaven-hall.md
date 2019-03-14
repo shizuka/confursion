@@ -5,7 +5,7 @@ subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
   Location: "Furhaven Valley"
   Staff:
-    - "[Cadey](/characters/cadey) - Mayor"
+    - "[Cadey](/characters/cadey), mayor"
 ---
 
 # Furhaven Town Hall

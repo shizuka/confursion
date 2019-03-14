@@ -11,7 +11,7 @@ info:
   Height: 6'
   Occupation: "Owner, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
-    - "Abigail, girlfriend"
+    - "[Abigail](/characters/abigail), girlfriend"
 ---
 
 # Jane Doe

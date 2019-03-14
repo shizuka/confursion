@@ -12,7 +12,7 @@ info:
     - Orange hair/ears
     - Blue eyes
   Height: 5'4"
-  Occupation: "Owner, [Hoptimism](/locations/furhaven-tavern)"
+  Occupation: "Owner, [Hoptimism Inn and Tavern](/locations/furhaven-tavern)"
   Relationships:
     - "Rachel, familiar"
 ---
