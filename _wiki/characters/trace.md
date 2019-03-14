@@ -10,6 +10,9 @@ info:
     - Red hair
   Height: 4'0"
   Occupation: "Innkeeper, [Hoptimism Inn](/locations/furhaven-tavern)"
+  Relationships: 
+    - "[Jewel Wolfe](/characters/jewel), girlfriend"
+    - "[Joyce Lün](/characters/joyce), sister"
 ---
 
 # Trace Lün
