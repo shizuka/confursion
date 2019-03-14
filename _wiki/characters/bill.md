@@ -2,8 +2,9 @@
 title: Bill
 infobox: true
 info: 
-  Species: Rat
+  Species: "[Fancy Rat](https://en.wikipedia.org/wiki/Fancy_rat)"
   Gender: Male
+  Age: 50s-60s
   Colors: 
     - "?"
   Height: "?"
