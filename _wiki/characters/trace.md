@@ -1,5 +1,5 @@
 ---
-title: Trace Lun
+title: Trace Lün
 infobox: true
 image: /img/pfp-trace.jpg
 info: 
@@ -12,4 +12,4 @@ info:
   Occupation: "Innkeeper, [Hoptimism Inn](/locations/furhaven-tavern)"
 ---
 
-# Trace Lun
+# Trace Lün
