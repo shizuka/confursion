@@ -11,6 +11,9 @@ info:
     - Blonde ear fur
   Height: 5'3"
   Occupation: "Owner, [Cattail Coffeehouse](/locations/furhaven-coffeeshop)"
+  Relationships:
+    - "[Zack Tsarni](/characters/zack), boyfriend"
+    - "[Trace Lün](/characters/trace), sister"
 ---
 
 # Joyce Lün
