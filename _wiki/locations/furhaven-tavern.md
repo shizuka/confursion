@@ -9,7 +9,7 @@ info:
     - "[Marina Hasenkamp](/characters/marina), bartender"
     - "[Diana](/characters/diana), bartender"
     - "[Jewel Wolfe](/characters/jewel), innkeeper"
-    - "[Trace Lun](/characters/trace), innkeeper"
+    - "[Trace Lün](/characters/trace), innkeeper"
 ---
 
 # Hoptimism Inn and Tavern
