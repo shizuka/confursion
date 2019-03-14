@@ -3,8 +3,9 @@ title: Jewel Wolfe
 infobox: true
 image: /img/pfp-jewel.jpg
 info:
-  Species: Wolf
+  Species: "[Wolf](https://en.m.wikipedia.org/wiki/Wolf)"
   Gender: Female
+  Age: "?"
   Colors: 
     - White fur
     - Blue hair
