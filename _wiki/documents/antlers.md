@@ -1,0 +1,3 @@
+Many Anthros, like myself, found themselves in possession of horns or antlers when they transformed. As cool as they look, I find they tend to be more inconvenient than anything. Certain types of clothing are out of the question a good chunk of the year, or all together, depending on species. 
+
+Buttons and zippers are your new best friends. For the love of Elon, if you must pull something over your head make sure it is loose and you are as careful as physically possible. I’ve punctured too many of my favorite t-shirts to give that a shot again, but some of you out there might be braver souls than I. My wardrobe is much less restricted when I shed my antlers.
