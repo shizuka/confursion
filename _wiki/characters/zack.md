@@ -11,6 +11,8 @@ info:
     - Pink/white hair
   Height: 5'1"
   Occupation: "Barista, [Cattail Coffeehouse](/locations/furhaven-coffeeshop)"
+  Relationships:
+    - "[Joyce Lün](/characters/joyce), girlfriend"
 ---
 
 # Zack Tsarni
