@@ -1,8 +1,7 @@
 ---
-title: Shizuka
+title: Shizuka Valenheart
 author: Shizuka
 infobox: true
-ititle: Shizuka Valenheart
 image: /img/pfp-shizuka.png
 info:
   Species: Rabbit
@@ -19,3 +18,5 @@ info:
 ---
 
 # Shizuka Valenheart
+
+

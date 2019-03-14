@@ -1,7 +1,6 @@
 ---
-title: Trace
+title: Trace Lun
 infobox: true
-ititle: Trace Lun
 image: /img/pfp-trace.jpg
 info: 
   Species: Cat

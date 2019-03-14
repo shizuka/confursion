@@ -1,8 +1,7 @@
 ---
-title: Jane
+title: Jane Doe
 author: Shiny
 infobox: true
-ititle: Jane Doe
 info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
   Gender: Female

@@ -1,7 +1,6 @@
 ---
-title: Jewel
+title: Jewel Wolfe
 infobox: true
-ititle: Jewel Wolfe
 image: /img/pfp-jewel.jpg
 info:
   Species: Wolf

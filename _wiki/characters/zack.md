@@ -1,7 +1,6 @@
 ---
-title: Zack
+title: Zack Tsarni
 infobox: true
-ititle: Zack Tsarni
 image: /img/pfp-zack.png
 info: 
   Species: Tiger

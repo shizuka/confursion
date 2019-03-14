@@ -6,7 +6,7 @@ info:
   Location: "Furhaven Valley"
   Staff:
     - "[Jane Doe](/characters/jane-doe) - Researcher"
-    - "Velvet - Masseuse"
+    - "[Velvet](/characters/velvet) - Masseuse"
     - "?"
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Velvet
 infobox: true
-ititle: Velvet
 image: /img/Velvet.jpg
 info: 
   Species: Deer

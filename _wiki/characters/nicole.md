@@ -1,7 +1,6 @@
 ---
 title: Nicole
 infobox: true
-ititle: Nicole
 info: 
   Species: Human
   Gender: Female

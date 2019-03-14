@@ -1,5 +1,5 @@
 ---
-title: Luna
+title: Luna Midnight
 author: Shizuka
 infobox: true
 info:

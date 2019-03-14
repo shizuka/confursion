@@ -6,9 +6,9 @@ info:
   Location: "Furhaven Valley"
   Staff:
     - "[Shizuka Valenheart](/characters/shizuka) - Owner"
-    - "[Marina](/characters/marina) - Bartender"
-    - "Jewel Wolfe - Innkeeper"
-    - "Trace Lun - Innkeeper"
+    - "[Marina Hasenkamp](/characters/marina) - Bartender"
+    - "[Jewel Wolfe](/characters/jewel) - Innkeeper"
+    - "[Trace Lun](/characters/trace) - Innkeeper"
 ---
 
 # Hoptimism Inn and Tavern

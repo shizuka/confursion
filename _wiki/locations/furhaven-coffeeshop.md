@@ -5,8 +5,8 @@ subtitle: "[Furhaven Valley](/locations/furhaven)"
 info:
   Location: "Gateway Valley"
   Staff:
-    - "Joyce - Owner"
-    - "Zack - Barista"
+    - "[Joyce Lun](/characters/joyce) - Owner"
+    - "[Zack Tsarni](/characters/zack) - Barista"
 ---
 
 # Cattail Coffeehouse

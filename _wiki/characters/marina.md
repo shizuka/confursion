@@ -1,5 +1,5 @@
 ---
-title: Marina
+title: Marina Hasenkamp
 author: Shizuka
 infobox: true
 info:
@@ -13,4 +13,6 @@ info:
   Occupation: "Bartender, [Hoptimism](/locations/furhaven-tavern)"
 ---
 
-# Marina
+# Marina Hasenkamp
+
+
