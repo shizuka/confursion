@@ -3,7 +3,7 @@ title: Shiny
 author: Shiny
 infobox: true
 info:
-  Species: Cat
+  Species: "[Cat](https://en.m.wikipedia.org/wiki/Cat)"
   Gender: Male
   Colors:
     - Calico fur
