@@ -3,7 +3,7 @@ title: Trace Lün
 infobox: true
 image: /img/pfp-trace.jpg
 info: 
-  Species: Cat
+  Species: "[Cat](https://en.wikipedia.org/wiki/Cat)"
   Gender: Female
   Colors: 
     - Yellow fur
