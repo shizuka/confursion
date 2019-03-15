@@ -2,13 +2,15 @@
 title: Marina Hasenkamp
 author: Shizuka
 infobox: true
+image: /img/pfp-marina.jpg
 info:
-  Species: "[Corsac fox](https://en.wikipedia.org/wiki/Corsac_fox)"
+  Species: "[Red fox](https://en.wikipedia.org/wiki/Red_fox)"
   Gender: Female
   Colors:
-    - Sandy brown fur
+    - Red-brown fur
     - White undercoat
-    - Green eyes
+    - Sandy blonde hair
+    - Brown eyes
   Height: 5'9"
   Occupation: "Bartender, [Hoptimism Tavern](/locations/furhaven-tavern)"
   Relationships: "[Shizuka Valenheart](/characters/shizuka), girlfriend"
