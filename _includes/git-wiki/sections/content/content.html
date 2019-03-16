@@ -7,7 +7,7 @@
     {% include {{ site.inc_before_toc }} %}
     {% endif %}
 
-    {% unless page.notoc == true %}<div id="git-wiki-toc"></div>{% endunless %}
+    <!--<div id="git-wiki-toc"></div>-->
 
     {% if site.inc_after_toc %}
     {% include {{ site.inc_after_toc }} %}
@@ -18,7 +18,7 @@
     {% endif %}
 
     <div id="git-wiki-content">
-      {{ content }}
+      {{ content | replace: "<!--toc-->", '<div id="git-wiki-toc"></div>' }}
     </div>
 
     {% if site.inc_after_content %}

@@ -1,6 +1,5 @@
 ---
 title: Locations
-notoc: true
 noedit: true
 permalink: "/locations/"
 ---

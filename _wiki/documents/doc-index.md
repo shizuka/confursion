@@ -1,6 +1,5 @@
 ---
 title: Documents
-notoc: true
 permalink: "/documents/"
 ---
 
@@ -10,5 +9,5 @@ permalink: "/documents/"
 
 ## Articles
 <ul class="wiki-page-list">
-  <li><a href="/documents/2019-03-11-new-diet">Your New Diet and You</a> by <a href="/characters/jane-doe">Jane Doe</a></li>
+  <li><a href="/documents/2019-03-11-new-diet">Your New Diet and You</a></li>
 </ul>

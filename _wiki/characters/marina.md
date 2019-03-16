@@ -29,5 +29,6 @@ Valley](/locations/furhaven), and owns and tends bar at the [Hoptimism
 Tavern](/locations/furhaven-tavern) with her bunny girlfriend, [Shizuka
 Valenheart](/characters/shizuka).
 
+<!--toc-->
 
 ## Biography

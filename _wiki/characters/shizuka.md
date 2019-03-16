@@ -31,6 +31,8 @@ Valley](/locations/furhaven), and owns and works at the [Hoptimism
 Tavern](/locations/furhaven-tavern) with her vixen girlfriend, [Marina
 Hasenkamp](/characters/marina).
 
+<!--toc-->
+
 ## Biography
 
 Shizuka is an English Lop rabbit with tan and cream fur, orange hair, blue eyes,

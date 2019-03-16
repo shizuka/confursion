@@ -10,7 +10,15 @@ info:
     - Silver undercoat
     - Yellow eyes
   Height: 5'6"
+  Occupation: "?"
+  Relationships:
+    - "?"
+  Personality:
+    - "?"
 ---
 
-# Luna
+# Luna Midnight
 
+<!--toc-->
+
+## Biography

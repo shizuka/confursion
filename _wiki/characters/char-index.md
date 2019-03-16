@@ -1,6 +1,5 @@
 ---
 title: Characters
-notoc: true
 noedit: true
 permalink: "/characters/"
 ---

@@ -18,7 +18,7 @@ info:
   Incidence: "~1% population"
 ---
 
-## Anthropic Shift
+# Anthropic Shift
 
 The **anthropic shift**, commonly referred to as *"the confursion"*, *"furry
 plague"*, or simply *"furry TF"*, is a term for the metamorphosis of humans into
@@ -29,6 +29,7 @@ The process typically takes between two to four weeks to complete. It is not
 known what causes the shift to trigger, but it is speculated that all humans are
 potentially vulnerable.
 
+<!--toc-->
 
 ## History
 
