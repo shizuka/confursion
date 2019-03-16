@@ -13,6 +13,7 @@ info:
   Relationships:
     - "[Jane Doe](/characters/jane-doe), girlfriend"
     - "Unnamed Child"
+    - "Unnamed Ex"
 ---
 
 # Abigail
@@ -25,7 +26,7 @@ Abigail is a tough, no-nonsense gal from Texas.
 
 Likes:
 
-  * 
+  * Guitar
  
   
 
