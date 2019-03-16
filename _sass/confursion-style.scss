@@ -201,3 +201,9 @@
     padding-inline-start: 2em;
   }
 }
+
+@media print, screen and (max-width: 720px) {
+  .infobox {
+    width: 100%;
+  }
+}
