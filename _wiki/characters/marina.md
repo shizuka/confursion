@@ -1,25 +1,28 @@
 ---
 title: Marina Hasenkamp
 author: Shizuka
-notoc: true
 infobox: true
 image: /img/pfp-marina.jpg
 info:
   Species: "[Red fox](https://en.wikipedia.org/wiki/Red_fox)"
+  Shifted: "3wks AF"
   Gender: Female
+  Age: "?"
   Colors:
     - Red-brown fur
     - White undercoat
     - Sandy blonde hair
     - Brown eyes
   Height: 5'11"
-  Occupation: "Bartender, [Hoptimism Tavern](/locations/furhaven-tavern)"
+  Occupation: "Owner, [Hoptimism Inn and Tavern](/locations/furhaven-tavern)"
   Relationships:
     - "[Shizuka Valenheart](/characters/shizuka), girlfriend"
   Personality:
-    - Warm and friendly
-    - Perfectionist
-    - Creative
+    - "Warm and friendly"
+    - "Slow to trust"
+  Known for:
+    - "Founding Furry"
+    - "Foxfire Mead"
 ---
 
 # Marina Hasenkamp

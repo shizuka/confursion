@@ -16,3 +16,20 @@ permalink: "/characters/"
   {% endif %}
 {% endfor %}
 </ul>
+
+- Organizations
+  - Union Aerospace Corporation (not-SpaceX)
+  - Xenomics Laboratories
+  - unnamed anthro welfare charity
+  - unnamed anti-anthro radical group
+- Groups
+  - Founding Furries
+    - Cadey - has the idea
+    - Marina - needs a home
+    - Faith - has connections in seattle
+    - Shiny and Aty - are stuck in seattle
+    - unnamed someone with land gets us started
+  - Second wave furries
+    - Shizuka - needs a home
+    - Jewel and Trace - want to make a safe refugee inn
+    - Jane Doe and Abigail - following the story

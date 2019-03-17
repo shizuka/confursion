@@ -4,7 +4,9 @@ infobox: true
 image: /img/pfp-trace.jpg
 info: 
   Species: "[Cat](https://en.wikipedia.org/wiki/Cat)"
+  Shifted: "?"
   Gender: Female
+  Age: "?"
   Colors: 
     - Yellow fur
     - Red hair
@@ -13,6 +15,12 @@ info:
   Relationships: 
     - "[Jewel Wolfe](/characters/jewel), girlfriend"
     - "[Joyce Lün](/characters/joyce), sister"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
+    - "?"
 ---
 
 # Trace Lün

@@ -4,14 +4,23 @@ author: Shiny
 infobox: true
 info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
+  Shifted: "?"
   Gender: Female
+  Age: "?"
   Colors:
     - Golden brown fur
     - Dark brown eyes
-  Height: 6'
-  Occupation: "Owner, [Softpaws Clinic](/locations/furhaven-clinic)"
+  Height: 6'0"
+  Occupation: "Journalist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "[Abigail](/characters/abigail), girlfriend"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
+    - "Explainer articles for anthros"
+    - "?"
 ---
 
 # Jane Doe

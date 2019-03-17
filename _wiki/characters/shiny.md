@@ -4,14 +4,23 @@ author: Shiny
 infobox: true
 info:
   Species: "[Cat](https://en.m.wikipedia.org/wiki/Cat)"
+  Shifted: "?"
   Gender: Male
+  Age: "?"
   Colors:
     - Calico fur
     - Green eyes
-  Height: 5'
-  Occupation: "Owner, [Pawsitively Everything](/locations/furhaven-general-store)"
+  Height: 5'0"
+  Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
   Relationships:
-    - "Boyfriend"
+    - "[Aty](/characters/aty), boyfriend"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
+    - "Founding Furry"
+    - "?"
 ---
 
 Shiny

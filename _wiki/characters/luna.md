@@ -4,7 +4,9 @@ author: Shizuka
 infobox: true
 info:
   Species: "[Cat](https://en.wikipedia.org/wiki/Cat)"
+  Shifted: "6mos AF"
   Gender: Female
+  Age: "?"
   Colors:
     - Black fur
     - Silver undercoat
@@ -14,6 +16,10 @@ info:
   Relationships:
     - "?"
   Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
     - "?"
 ---
 

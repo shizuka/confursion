@@ -7,7 +7,9 @@ subtitle: "Author Avatar"
 image: /img/pfp-shizuka.png
 info:
   Species: "[English Lop](https://en.wikipedia.org/wiki/English_Lop) Rabbit"
+  Shifted: 6mos AF
   Gender: Female
+  Age: "?"
   Colors:
     - Tan fur
     - Cream belly fur
@@ -19,9 +21,11 @@ info:
     - "[Marina Hasenkamp](/characters/marina), girlfriend"
     - "Rachel, adopted daughter"
   Personality:
-    - Often withdrawn
+    - Withdrawn and quiet
     - Keenly observant
     - Intensely sympathetic
+  Known for:
+    - "?"
 ---
 
 # Shizuka Valenheart

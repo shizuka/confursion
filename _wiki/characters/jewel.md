@@ -4,6 +4,7 @@ infobox: true
 image: /img/pfp-jewel.jpg
 info:
   Species: "[Wolf](https://en.m.wikipedia.org/wiki/Wolf)"
+  Shifted: "?"
   Gender: Female
   Age: "?"
   Colors: 
@@ -13,6 +14,12 @@ info:
   Occupation: "Innkeeper, [Hoptimism Inn](/locations/furhaven-tavern)"
   Relationships:
     - "[Trace Lün](/characters/trace), girlfriend"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
+    - "?"
 ---
 
 # Jewel Wolfe

@@ -4,16 +4,24 @@ author: Shiny
 infobox: true
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
+  Shifted: "?"
   Gender: Female
+  Age: "?"
   Colors:
     - Brown and white patched fur
-  
+    - "? eyes"
   Height: 6'4"
   Occupation: Farmhand
   Relationships:
     - "[Jane Doe](/characters/jane-doe), girlfriend"
     - "Unnamed Child"
     - "Unnamed Ex"
+  Personality:
+    - "No-nonsense Texas"
+    - "?"
+    - "?"
+  Known for:
+    - "?"
 ---
 
 # Abigail

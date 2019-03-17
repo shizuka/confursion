@@ -7,7 +7,9 @@ image: /img/pfp-maarten.jpg
 caption: CEO van Holstruk after the shift
 info:
   Species: "[Marten](https://en.wikipedia.org/wiki/Marten)"
+  Shifted: "0 AF"
   Gender: Male
+  Age: 40s
   Colors:
     - Light brown fur
     - White undercoat
@@ -16,6 +18,13 @@ info:
   Height: 5'11"
   Occupation:
     - "CEO, Union Aerospace Corporation"
+  Relationships:
+    - "?"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
     - "Patient Zero"
 ---
 

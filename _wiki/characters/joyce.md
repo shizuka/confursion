@@ -4,7 +4,9 @@ infobox: true
 image: /img/pfp-joyce.png
 info: 
   Species: Cat Human
+  Shifted: "?"
   Gender: Female
+  Age: "?"
   Colors: 
     - Fair skin
     - Blonde hair
@@ -14,6 +16,12 @@ info:
   Relationships:
     - "[Zack Tsarni](/characters/zack), boyfriend"
     - "[Trace Lün](/characters/trace), sister"
+  Personality:
+    - "?"
+    - "?"
+    - "?"
+  Known for:
+    - "?"
 ---
 
 # Joyce Lün
