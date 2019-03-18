@@ -9,7 +9,7 @@ info:
   Species: "[English Lop](https://en.wikipedia.org/wiki/English_Lop) Rabbit"
   Shifted: 6mos AF
   Gender: Female
-  Age: "?"
+  Age: "mid 20s"
   Colors:
     - Tan fur
     - Cream belly fur
@@ -25,7 +25,7 @@ info:
     - Keenly observant
     - Intensely sympathetic
   Known for:
-    - "?"
+    - "Anthro-safe exotic baking"
 ---
 
 # Shizuka Valenheart
