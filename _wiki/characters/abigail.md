@@ -6,10 +6,11 @@ info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
   Shifted: "?"
   Gender: Female
-  Age: "?"
+  Age: 32
   Colors:
     - Brown and white patched fur
     - "? eyes"
+    - Blonde hair
   Height: 6'4"
   Occupation: Farmhand
   Relationships:
