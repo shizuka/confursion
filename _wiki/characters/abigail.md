@@ -1,5 +1,5 @@
 ---
-title: Abigail
+title: Abigail Brown
 author: Shiny
 infobox: true
 info:
@@ -8,7 +8,7 @@ info:
   Gender: Female
   Age: 32
   Colors:
-    - Brown and white patched fur
+    - Brown and white fur
     - "? eyes"
     - Blonde hair
   Height: 6'4"
@@ -19,8 +19,8 @@ info:
     - "Unnamed Ex"
   Personality:
     - "No-nonsense Texas"
-    - "?"
-    - "?"
+    - "Tomboy? Butch? Why not both?"
+    - Mama Bear
   Known for:
     - "?"
 ---
@@ -28,14 +28,16 @@ info:
 # Abigail
 
 ## Bio
-Abigail is a tough, no-nonsense gal from Texas.
+Abigail is a tough, no-nonsense gal from Texas. She is an anthro cow with brown and white fur and blonde hair. She met Jane when she brought her child to the commune hoping for a better life. They became fast friends, and then became something more.
 
+When she isn't working, or working out, she's often found strumming a tune.
 
 ---
 
 Likes:
 
   * Guitar
+  * Exercise
  
   
 
