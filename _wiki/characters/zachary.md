@@ -19,6 +19,7 @@ info:
     - "Lazy"
     - "Socially Careful"
   Known for:
+    - "?"
 ---
 
 # Zachary Smith 
