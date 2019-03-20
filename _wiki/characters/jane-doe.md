@@ -6,16 +6,17 @@ info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
   Shifted: "?"
   Gender: Female
-  Age: "?"
+  Age: Mid to late twenties
   Colors:
     - Golden brown fur
+    - White spots
     - Dark brown eyes
-  Height: 6'0"
+  Height: 5'9
   Occupation: "Journalist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "[Abigail](/characters/abigail), girlfriend"
   Personality:
-    - "?"
+    - Cheerful
     - "?"
     - "?"
   Known for:
@@ -29,7 +30,7 @@ info:
 
 Jane Doe is a sika deer who works as a journalist for the commune. She has golden brown fur, dark brown eyes, and three points on each antler. Like all members of her species, despite being an adult she has retained fawn-like spots.
 
-Jane is [Deaf](https://en.wikipedia.org/wiki/Deaf_culture) and she is fluent in both [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) and English.
+Jane is [Deaf](https://en.wikipedia.org/wiki/Deaf_culture) and knows four languages; English, Japanese, [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) and [Japanese Sign Language](https://en.wikipedia.org/wiki/Japanese_Sign_Language).
 
 ---
 
