@@ -7,17 +7,19 @@ info:
   Gender: Male
   Age: 50s-60s
   Colors: 
-    - "?"
-  Height: "?"
+    - White fur
+    - One black and one red eye
+    - Pink skin
+  Height: 5'10
   Occupation: "Scientist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "?"
   Personality:
-    - "?"
+    - Quiet, somewhat nervous
     - "?"
     - "?"
   Known for:
-    - "?"
+    - Documenting his transformation process
 ---
 
 # Bill
