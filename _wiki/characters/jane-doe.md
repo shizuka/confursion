@@ -30,6 +30,8 @@ info:
 
 Jane Doe is a sika deer who works as a journalist for the commune. She has golden brown fur, dark brown eyes, and three points on each antler. Like all members of her species, despite being an adult she has retained fawn-like spots.
 
+Before she transformed, Jane was a Japanese-American trans woman working as a secretary. After her transformation, she took up journalism to help the stories of anthros like herself be shared. She was already a trans activist, becoming an anthro activist was just another piece of the pie now.
+
 Jane is [Deaf](https://en.wikipedia.org/wiki/Deaf_culture) and knows four languages; English, Japanese, [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) and [Japanese Sign Language](https://en.wikipedia.org/wiki/Japanese_Sign_Language).
 
 ---
