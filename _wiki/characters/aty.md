@@ -2,7 +2,7 @@
 title: Aty
 infobox: true
 info:
-  Species: [Red Panda](https://en.m.wikipedia.org/wiki/Red_panda)
+  Species: "[Red Panda](https://en.m.wikipedia.org/wiki/Red_panda)"
   Shifted: "?"
   Gender: Male
   Age: "?"
