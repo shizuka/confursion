@@ -16,8 +16,9 @@ info:
     - "[Aty](/characters/aty), boyfriend"
   Personality:
     - Excitable and curious
-    - Socially awkward
-    - "?"
+    - Effeminate
+    - Somewhat socially awkward
+    - Cuddly
   Known for:
     - "Founding Furry"
     - "?"
@@ -32,7 +33,7 @@ Shiny is a calico tomcat with green eyes, a white muzzle, and a white tail tip.
 
 While attending a furry convention in Seattle with his boyfriend, The Shift started. He woke up in their hotel room to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy cat tail. Not exactly the type of thing you can hide for too long. 
 
-As well as gardening and keeping chickens, Shiny runs Pawsitively Everything with his partner.
+As well as growing crops and keeping chickens, Shiny runs Pawsitively Everything with his partner.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -49,4 +50,4 @@ Likes:
 Dislikes:
 
   * Spiders
-  * Loud Noises
+  * Being startled
