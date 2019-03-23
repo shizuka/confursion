@@ -7,14 +7,14 @@ info:
   Gender: Male
   Age: "?"
   Colors:
-    - Red and White fur
+    - Red Black and White fur
   Height: 6'
   Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
   Relationships: 
     - "[Shiny](/characters/shiny), boyfriend"
   Personality:
     - Crazy? I was crazy once.
-    - "?"
+    - Always rushing
     - "?"
   Known for:
     - "?"
