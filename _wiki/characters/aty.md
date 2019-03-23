@@ -2,12 +2,12 @@
 title: Aty
 infobox: true
 info:
-  Species: "?"
+  Species: [Red Panda](https://en.m.wikipedia.org/wiki/Red_panda)
   Shifted: "?"
   Gender: Male
   Age: "?"
   Colors:
-    - "?"
+    - Red and White fur
   Height: 6'
   Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
   Relationships: 
