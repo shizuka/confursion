@@ -3,7 +3,7 @@ title: Aty
 infobox: true
 info:
   Species: "[Red Panda](https://en.m.wikipedia.org/wiki/Red_panda)"
-  Shifted: "?"
+  Shifted: "6wks AF"
   Gender: Male
   Age: "?"
   Colors:

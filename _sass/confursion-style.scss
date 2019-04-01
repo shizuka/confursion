@@ -137,60 +137,16 @@
 
 .event-timeline {
   ul {
-    padding-left: 0;
+    padding-left: 1rem;
+    margin-bottom: 0;
   }
-  li {
-    list-style-type: none;
-    margin: 0;
-    position: relative;
-    overflow: hidden;
-
-    .date {
-      margin: 0;
-      padding: 0;
-      width: 85px;
-      float: left;
-      font-weight: bold;
-      padding-top: 5px;
-    }
-
-    p:not(.date) {
-      margin: 0;
-      width: 75%;
-      float: left;
-      border-left: 3px solid #777777;
-      padding-left: 20px;
-      padding-bottom: 20px;
-      font-size: 20px;
-
-      &:before {
-        content: '';
-        width: 12px;
-        height: 12px;
-        background: #000000;
-        position: absolute;
-        left: 81px;
-        top: 10px;
-        border-radius: 100%;
-      }
-    }
-
-    &:first-child {
-      .date {
-        padding-top: 25px;
-      }
-      p:not(.date) {
-        padding-top: 20px;
-
-        &:before {
-          top: 30px;
-        }
-      }
-    }
-
-    &:last-child {
-      p:not(.date) {
-        padding-bottom: 20px;
+  
+  li { //year
+    font-size: 1.1rem;
+    li { //month
+      font-size: 1.1rem;
+      li { //entry
+        font-size: 1.25rem;
       }
     }
   }

@@ -4,7 +4,7 @@ author: Shiny
 infobox: true
 info:
   Species: "[Cat](https://en.m.wikipedia.org/wiki/Cat)"
-  Shifted: "?"
+  Shifted: "5wks AF"
   Gender: Male
   Age: "?"
   Colors:

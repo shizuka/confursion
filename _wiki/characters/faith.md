@@ -3,7 +3,7 @@ title: Faith
 infobox: true
 info:
   Species: "?"
-  Shifted : "?"
+  Shifted : "2mos AF"
   Gender: Female
   Age: "?"
   Colors:
