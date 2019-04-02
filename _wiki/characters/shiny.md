@@ -19,6 +19,8 @@ info:
     - Effeminate
     - Somewhat socially awkward
     - Cuddly
+  Hometown:
+  Accent:
   Known for:
     - "Founding Furry"
     - "?"
