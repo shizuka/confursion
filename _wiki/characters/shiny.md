@@ -10,12 +10,13 @@ info:
   Colors:
     - Calico fur
     - Green eyes
-  Height: 5'0"
+  Height: 5'
   Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
   Relationships:
     - "[Aty](/characters/aty), boyfriend"
   Personality:
     - Excitable and curious
+    - Still shy
     - Effeminate
     - Somewhat socially awkward
     - Cuddly
@@ -53,3 +54,4 @@ Dislikes:
 
   * Spiders
   * Being startled
+  
