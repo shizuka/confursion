@@ -11,55 +11,80 @@ permalink: "/events/"
 <div class="event-timeline" markdown="1">
 
 - 2013
-  - Xenomics cracks alterations for space survival
+  - Xenomics cracks genetic alterations for space survival
 - 2014
 - 2015
   - Xenomics completes genetic payload technology
-- 2016
+- 2016 - 0 AF
   - January
+    - Genetic payload causes first anthropic shift
+    - Rachel Valenheart shifts
   - February
   - March
     - Xenomics seeks anthropic shift cure
-    - Trigger released
+    - Genetic payload escapes containment
   - April
-    - Outbreak
+    - Outbreak - UAC CEO goes public
     - Cadey shifts
-    - Marina shifts
+    - Marina Hasenkamp shifts
   - May
+    - Furry convention in Seattle, many will end up shifting
+    - Xenomics Laboratories abandoned
     - Shiny and Aty shift
-    - Race riots start in major cities
+    - Anti-anthro violence reported in major cities
+    - Zack Tsarni shifts
   - June
     - Faith shifts
     - Furhaven founded
   - July
+    - Initial anti-anthro wave subsides
     - Softpaws Charity formed
+    - Furhaven receives sanctuary grant from Softpaws
   - August
+    - Furhaven incorporated, purchases Gateway Valley
+    - Hydro power installed on Spirit Lake waterfall
   - September
+    - Dragonfire Forge opens
+    - Beaver Bellows Sawmill opens
   - October
-    - Shizuka shifts
+    - Shizuka Valenheart shifts
     - One Furry Morning
-    - National election
+    - Luna Midnight shifts
+    - National election - about as bad as ours
+    - Anti-anthro violence escalates
     - Shizuka moves to Seattle
   - November
     - Kleine Karrote
     - Shizuka moves to Furhaven
   - December
-- 2017
+    - Jane Doe moves to Furhaven
+- 2017 - 1 AF
+  - Furhaven population: **40**
   - January
   - February
+    - Greenhouses constructed
   - March
     - Iron Dragon Railway constructed
+    - Furhaven begins importing supplies
+    - Pawsitively Everything opens
+    - Shizuka, Marina, and Jane begin outreach travel
   - April
-    - Hoptimism Inn opens
   - May
   - June
+    - States propose anti-anthro legislation
+    - Second wave anti-anthro violence
   - July
   - August
+    - Trace Lun shifts
   - September
   - October
+    - First harvest
+    - Jewel Wolfe shifts
+    - Jewel and Co. flee to Furhaven
   - November
   - December
-- 2018
+- 2018 - 2 AF
+  - Furhaven population: **100**
   - January
   - February
   - March
@@ -67,13 +92,38 @@ permalink: "/events/"
   - May
     - Descent
   - June
+    - Joyce Lun is partially shifted at Softpaws
+  - July
+    - Hoptimism Inn and Tavern opens
+    - Luna Midnight comes to Hoptimism
+  - August
+  - September
+  - October
+    - Second harvest
+    - Blue Jay Blend coffee strain isolated
+  - November
+    - Marina invents Foxfire Mead
+  - December
+- 2019 - 3 AF
+  - Furhaven population: **180**
+  - January
+  - February
+  - March
+    - Furhaven begins exporting goods
+    - Foxfire is an underground success
+  - April
+  - May
+  - June
   - July
   - August
   - September
   - October
+    - Harvest
+    - Blue Jay Blend achieves wild success
   - November
   - December
-- 2019
+- 2020 - 4 AF
+  - Furhaven population: **300**
   - January
   - February
   - March
@@ -86,5 +136,7 @@ permalink: "/events/"
   - October
   - November
   - December
+- 2021 - 5 AF
+  - THE FUTURE
 
 </div>
