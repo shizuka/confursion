@@ -2,7 +2,7 @@
 title: Abigail Brown
 author: Shiny
 infobox: true
-image: /img/pfp-abigail.png
+image: /img/pfp-abigail.jpg
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
   Shifted: "?"
