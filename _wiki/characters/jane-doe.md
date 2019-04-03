@@ -35,6 +35,8 @@ Before she transformed, Jane was a mixed race [Japanese-American](https://en.wik
 
 Jane is [Deaf](https://en.wikipedia.org/wiki/Deaf_culture) and knows four languages; English, Japanese, [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) and [Japanese Sign Language](https://en.wikipedia.org/wiki/Japanese_Sign_Language). She is able to hear some things but greatly prefers the use of sign language or writing to communicate.
 
+Her anthro articles are also translated by her into Japanese, and she encourages others to translate them into languages she doesn't know. She is a huge proponent of accessability, both in general and to education.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ---
