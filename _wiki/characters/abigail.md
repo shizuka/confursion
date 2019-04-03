@@ -2,6 +2,7 @@
 title: Abigail Brown
 author: Shiny
 infobox: true
+image: /img/pfp-abigail.png
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
   Shifted: "?"
@@ -9,7 +10,7 @@ info:
   Age: 32
   Colors:
     - Brown and white fur
-    - "? eyes"
+    - Green eyes
     - Blonde hair
   Height: 6'4"
   Occupation: Farmhand
@@ -21,6 +22,8 @@ info:
     - "No-nonsense Texas"
     - "Tomboy? Butch? Why not both?"
     - Mama Bear
+  Hometown: Texas
+  Accent: Southern
   Known for:
     - "?"
 ---
