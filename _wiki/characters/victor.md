@@ -10,7 +10,7 @@ info:
   Colors:
     - "Light grey fur with dark spots"
     - "Dark grey hair"
-  Height: 6'
+  Height: 6'0"
   Occupation: "Consultant"
   Relationships:
     - [Nicole](characters/nicole), fiancée
