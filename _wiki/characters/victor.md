@@ -13,9 +13,9 @@ info:
   Height: 6'0"
   Occupation: "Consultant"
   Relationships:
-    - "[Nicole](characters/nicole), fiancée"
-    - "[Ashe](characters/ashe), fiancée"
-    - "[Cadey](characters/cadey), fiancée"
+    - "[Nicole](/characters/nicole), fiancée"
+    - "[Ashe](/characters/ashe), fiancée"
+    - "[Cadey](/characters/cadey), fiancée"
   Personality:
     - "Quiet, but easy and outgoing"
     - "Level-headed, unless he loses all patience"
