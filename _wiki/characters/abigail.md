@@ -25,15 +25,16 @@ info:
   Hometown: Texas
   Accent: Southern
   Known for:
-    - "?"
+  - "?"
+  Theme Song: "[Brick House](https://youtu.be/rrBx6mAWYPU)"
 ---
 
 # Abigail
 
 ## Bio
-Abigail is a tough, no-nonsense gal from Texas. She is an anthro cow with brown and white fur and blonde hair. She met Jane when she brought her child to the commune hoping for a better life. They became fast friends, and then became something more.
+Abigail is a tough, no-nonsense gal from Texas. She is an anthro cow with brown and white fur and blonde hair. She met Jane when she helped bring Abigail and her child to the commune for a better life. They became fast friends, and then became something more. Abigail learned ASL to more easily communicate with her girlfriend, and she knows a passable level of Spanish as well.
 
-When she isn't working, or working out, she's often found strumming a tune.
+When she isn't working, or working out, she's often found strumming a tune on her guitar. Not an easy feat with hooves, but she manages.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
