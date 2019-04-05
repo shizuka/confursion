@@ -26,7 +26,9 @@ info:
   Accent: Southern
   Known for:
   - "?"
-  Theme Song: "[Brick House](https://youtu.be/rrBx6mAWYPU)"
+  Theme Songs: 
+  - "[Brick House](https://youtu.be/rrBx6mAWYPU)"
+  - "[Mooo](https://youtu.be/mXnJqYwebF8)"
 ---
 
 # Abigail
