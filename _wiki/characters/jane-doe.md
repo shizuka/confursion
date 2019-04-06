@@ -11,18 +11,22 @@ info:
     - Golden brown fur
     - White spots
     - Dark brown eyes
+    - "? hair"
   Occupation: "Journalist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "[Abigail](/characters/abigail), girlfriend"
   Personality:
+    - Hardworking
     - Cheerful
-    - "?"
-    - "?"
+    - Ambitious
   Hometown: "?"
   Accent: Deaf
   Known for:
     - "Explainer articles for anthros"
     - "?"
+  Theme Songs:
+    -
+    -
 ---
 
 # Jane Doe
@@ -43,10 +47,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Likes:
 
-  * Card Games
- 
+  * Tabletop Games
+  *
   
 
 Dislikes:
 
   * 
+  *
