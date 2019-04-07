@@ -12,7 +12,7 @@ info:
     - Golden brown fur
     - White spots
     - Dark brown eyes
-    - "? hair"
+    - Black hair"
   Occupation: "Journalist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "[Abigail](/characters/abigail), girlfriend"
