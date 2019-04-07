@@ -3,6 +3,7 @@ title: Jane Doe
 author: Shiny
 infobox: true
 image: /img/pfp-jane.png
+caption: Jane without her antlers.
 info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
   Shifted: "?"
@@ -11,8 +12,7 @@ info:
   Colors:
     - Golden brown fur
     - White spots
-    - Dark brown eyes
-    - Black hair"
+    - Black hair
   Occupation: "Journalist, [Softpaws Clinic](/locations/furhaven-clinic)"
   Relationships:
     - "[Abigail](/characters/abigail), girlfriend"
@@ -20,6 +20,7 @@ info:
     - Hardworking
     - Cheerful
     - Ambitious
+    - Confident
   Hometown: "?"
   Accent: Deaf
   Known for:
@@ -58,7 +59,7 @@ Dislikes:
   *
 
 ---
-# Fashion
+### Fashion
 
 Button downs, denim jackets. Jeans and skirts. Yoga pants on occasion. 
 
