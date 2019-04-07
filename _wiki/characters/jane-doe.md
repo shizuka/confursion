@@ -55,3 +55,10 @@ Dislikes:
 
   * 
   *
+
+---
+# Fashion
+
+Button downs, denim jackets. Jeans and skirts. Yoga pants on occasion. 
+
+(Winter) Finally able to wear pullover clothing. When inside: T-Shirt season, Band tees, pride tees, shirts with broken english she found online. Pajama pants. When outside: Pullover Hoodies, jackets. Still pajama pants most likely.
