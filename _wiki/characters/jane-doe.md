@@ -2,6 +2,7 @@
 title: Jane Doe
 author: Shiny
 infobox: true
+image: /img/pfp-jane.png
 info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
   Shifted: "?"
