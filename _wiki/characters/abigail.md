@@ -16,8 +16,8 @@ info:
   Occupation: Farmhand
   Relationships:
     - "[Jane Doe](/characters/jane-doe), girlfriend"
-    - "Unnamed Child"
-    - "Unnamed Ex"
+    - "Unnamed human child"
+    - "Unnamed ex-fiancé"
   Personality:
     - "No-nonsense Texas"
     - "Tomboy? Butch? Why not both?"
