@@ -8,7 +8,7 @@ info:
   Gender: Male
   Age: "?"
   Colors:
-    - Calico fur
+    - "[Calico](https://en.wikipedia.org/wiki/Calico_cat)"
     - Green eyes
   Height: 5'
   Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
@@ -34,9 +34,9 @@ Shiny
 
 ## Biography
 
-Shiny is a calico tomcat with green eyes, a white muzzle, and a white tail tip.
+Shiny is a calico tomcat with green eyes, a white muzzle, and a white tail tip. 
 
-While attending a furry convention in Seattle with his boyfriend, The Shift started. He woke up in their hotel room to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy cat tail. Not exactly the type of thing you can hide for too long. He was absolutely delighted to transform, however as one of the (un)lucky few to be transformed early on the public reaction was not as warm.  
+While attending a furry convention in Seattle with his boyfriend, he woke up in their hotel room to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy cat tail. The beginning of his anthropic shift wasn't exactly the type of thing you could hide for too long. He was absolutely delighted to transform, however as one of the (un)lucky few to be transformed early on the public reaction was not as warm.  
 
 As well as growing crops and keeping chickens, plus creating art, Shiny runs Pawsitively Everything with his partner.
 
@@ -45,6 +45,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ---
+
+## Fashion
+
+Hoodies
+
+### Likes & Dislikes
 
 Likes:
 
