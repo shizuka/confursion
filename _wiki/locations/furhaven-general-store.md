@@ -6,7 +6,8 @@ info:
   Location: "Gateway Valley"
   Owners:
     - "[Shiny](/characters/shiny), co-owner"
-    - "Aty, co-owner"
+    - "[Aty](/characters/aty), co-owner"
+    
 ---
 
 # Pawsitively Everything
