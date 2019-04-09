@@ -6,7 +6,7 @@ image: /img/pfp-jane.png
 caption: Jane without her antlers.
 info:
   Species: "[Sika deer](https://en.wikipedia.org/wiki/Sika_deer)"
-  Shifted: "?"
+  Shifted: ~1 AF
   Gender: Female
   Age: Late twenties
   Colors:
@@ -37,7 +37,7 @@ info:
 
 Jane Doe is a sika deer who works as a journalist for the commune. She has golden brown fur, black hair, and three points on each antler. Her hair is down over her shoulders and occasionally tied back in a messy bun. Like all members of her species, despite being an adult she has retained fawn-like spots.
 
-Before she transformed, Jane was a mixed race [Japanese-American](https://en.wikipedia.org/wiki/Japanese_Americans) trans woman working an office job. After her transformation, she took up journalism to help the stories of anthros like herself be shared. She was already an activist, becoming an *anthro* activist was just another piece of the pie now.
+Before she transformed, Jane was a mixed race [Japanese-American](https://en.wikipedia.org/wiki/Japanese_Americans) trans woman working a fairly cozy job. As lenient as they were, when Jane started sprouting antlers they informed her soon after that she was to be let go. After her transformation, and losing her job, she took up journalism full time to help the stories of anthros like herself be shared. She was already an activist, becoming an *anthro* activist was just another piece of the pie now.
 
 Jane is [Deaf](https://en.wikipedia.org/wiki/Deaf_culture) and knows four languages; English, Japanese, [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) and [Japanese Sign Language](https://en.wikipedia.org/wiki/Japanese_Sign_Language). She is able to hear some things but greatly prefers the use of sign language or writing to communicate.
 
