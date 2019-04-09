@@ -5,7 +5,7 @@ infobox: true
 image: /img/pfp-abigail.jpg
 info:
   Species: "[Cow](https://en.wikipedia.org/wiki/Cattle)"
-  Shifted: "?"
+  Shifted: 1-2 AF
   Gender: Female
   Age: 32
   Colors:
