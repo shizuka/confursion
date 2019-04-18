@@ -2,6 +2,7 @@
 title: Luna Midnight
 author: Shizuka
 infobox: true
+image: /img/pfp-luna.jpg
 info:
   Species: "[Cat](https://en.wikipedia.org/wiki/Cat)"
   Shifted: "6mos AF"
