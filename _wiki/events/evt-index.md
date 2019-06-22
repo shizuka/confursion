@@ -48,13 +48,13 @@ permalink: "/events/"
     - Beaver Bellows Sawmill opens
   - October
     - Shizuka Valenheart shifts
-    - One Furry Morning
+    - [<span class="fas fa-book-reader" /> One Furry Morning](https://shizuka.hokora.page/articles/2019-02/one-furry-morning)
     - Luna Midnight shifts
     - National election - about as bad as ours
     - Anti-anthro violence escalates
     - Shizuka moves to Seattle
   - November
-    - Kleine Karrote
+    - [<span class="fas fa-book-reader" /> Kleine Karrote](https://shizuka.hokora.page/articles/2019-03/kleine-karotte)
     - Shizuka moves to Furhaven
   - December
     - Jane Doe moves to Furhaven
@@ -79,6 +79,7 @@ permalink: "/events/"
   - September
   - October
     - First harvest
+    - [<span class="fas fa-book-reader" /> Carbon Under Pressure](https://shizuka.hokora.page/articles/2019-04/carbon-under-pressure)
     - Jewel Wolfe shifts
     - Jewel and Co. flee to Furhaven
   - November
@@ -90,7 +91,7 @@ permalink: "/events/"
   - March
   - April
   - May
-    - Descent
+    - [<span class="fas fa-book-reader" /> Descent](https://shizuka.hokora.page/articles/2019-02/descent)
   - June
     - Joyce Lun is partially shifted at Softpaws
   - July
@@ -136,6 +137,7 @@ permalink: "/events/"
   - October
   - November
   - December
+    - [<span class="fas fa-book-reader" /> Foxfire](https://shizuka.hokora.page/articles/2019-05/foxfire)
 - 2021 - 5 AF
   - THE FUTURE
 
