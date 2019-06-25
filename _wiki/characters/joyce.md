@@ -1,5 +1,5 @@
 ---
-title: Joyce Lün
+title: Joyce Lun
 infobox: true
 image: /img/pfp-joyce.png
 info: 

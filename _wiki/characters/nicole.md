@@ -1,5 +1,5 @@
 ---
-title: Nicole
+title: Nicole Brennan
 infobox: true
 info: 
   Species: Human
@@ -9,7 +9,7 @@ info:
     - Fair skin
     - Red hair
   Height: 5'11"
-  Occupation: "?"
+  Occupation: "Landowner"
   Relationships:
     - "?"
   Personality:
@@ -17,7 +17,8 @@ info:
     - "?"
     - "?"
   Known for:
-    - "?"
+    - "Founding Furry"
+    - "Cabin owner"
 ---
 
 # Nicole

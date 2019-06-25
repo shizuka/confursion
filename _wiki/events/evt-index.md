@@ -24,7 +24,7 @@ permalink: "/events/"
     - Xenomics seeks anthropic shift cure
     - Genetic payload escapes containment
   - April
-    - Outbreak - UAC CEO goes public
+    - [Outbreak](/events/outbreak) - UAC CEO goes public
     - Cadey shifts
     - Marina Hasenkamp shifts
   - May

@@ -1,5 +1,5 @@
 ---
-title: Velvet
+title: Velvet Brookes
 infobox: true
 image: /img/Velvet.jpg
 info: 

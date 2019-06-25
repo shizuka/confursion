@@ -4,7 +4,7 @@ infobox: true
 image: /img/pfp-jewel.jpg
 info:
   Species: "[Wolf](https://en.m.wikipedia.org/wiki/Wolf)"
-  Shifted: "?"
+  Shifted: "1yr AF"
   Gender: Female
   Age: "?"
   Colors: 

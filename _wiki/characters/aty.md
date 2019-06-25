@@ -1,5 +1,5 @@
 ---
-title: Aty
+title: Aty Netron
 infobox: true
 info:
   Species: "[Red Panda](https://en.m.wikipedia.org/wiki/Red_panda)"

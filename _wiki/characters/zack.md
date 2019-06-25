@@ -4,7 +4,7 @@ infobox: true
 image: /img/pfp-zack.png
 info: 
   Species: Tiger
-  Shifted: "?"
+  Shifted: "4wks AF"
   Gender: Male
   Age: "?"
   Colors: 

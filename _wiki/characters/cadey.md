@@ -1,10 +1,10 @@
 ---
-title: Cadey
+title: Cadey Ratio
 infobox: true
-ititle: Cadance
+ititle: Cadance Ratio
 info: 
   Species: "Orca/dragon hybrid"
-  Shifted: "?"
+  Shifted: "1wk AF"
   Gender: Female
   Age: "?"
   Colors: 
