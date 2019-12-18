@@ -19,12 +19,18 @@ info:
     - Twitchy
     - "?"
   Hometown: Bremen, Germany
-  Accent: Herr Doktor
+  Accent: "[Herr Doktor](https://tvtropes.org/pmwiki/pmwiki.php/Main/HerrDoktor)"
   Known for:
-    - Documenting his transformation process
+    - Documenting and publicizing his transformation process
     
 ---
 
 # Bill
 
-**Dr. William James Klein**, known to those close to him as simply **Bill**, is the head of Softpaw Clinic in Furhaven.
+## Biography
+
+**Dr. William James Klein**, known to those close to him as simply **Bill**, is the head of Softpaw Clinic in Furhaven. He became moderately famous after documenting the entirety of his transformation via daily video logs.
+
+## Trivia
+
+Bill is a [Jewish secular.](https://en.wikipedia.org/wiki/Jewish_secularism)
