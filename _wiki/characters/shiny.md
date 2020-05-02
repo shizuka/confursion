@@ -9,10 +9,10 @@ info:
   Age: 19-20
   Colors:
     - "[Calico](https://en.wikipedia.org/wiki/Calico_cat)"
-    - Green eyes
+    - Left eye blue, right eye green
     - Pink nose
     - Pink beans
-  Height: 5'
+  Height: 5'2"
   Occupation: "Shopkeep, [Pawsitively Everything](/locations/furhaven-general-store)"
   Relationships:
     - "[Aty](/characters/aty), boyfriend"
@@ -23,10 +23,10 @@ info:
     - Somewhat socially awkward
     - Cuddly
   Hometown: Kalamazoo, Michigan
-  Accent: Michigan
+  Accent: Midwest
   Known for:
     - "Founding Furry"
-    - "?"
+    - "Art Comissions"
   Theme Song: [Patrica Taxxon - Kissing Ancaps](https://youtu.be/irICqpaMeD4)
   
 ---
@@ -36,7 +36,7 @@ Shiny
 
 ## Biography
 
-**Shiny** is a calico tomcat with green eyes, a white muzzle, and a white tail tip. 
+**Shiny** is a calico tomcat with [blue/green heterochromia](https://en.m.wikipedia.org/wiki/Heterochromia_iridum), a white muzzle, and a white tail tip. 
 
 While attending a furry convention in Seattle with his boyfriend, he woke up in their hotel room to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy cat tail. The beginning of his anthropic shift wasn't exactly the type of thing you could hide for too long. He was absolutely delighted to transform, however as one of the (un)lucky few to be transformed early on the public reaction was not as warm.  
 
@@ -50,7 +50,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Fashion
 
-Hoodies
+Casual
 
 ### Likes & Dislikes
 
@@ -64,4 +64,5 @@ Dislikes:
 
   * Spiders
   * Being startled
+  * Milk
   
