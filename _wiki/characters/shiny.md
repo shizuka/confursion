@@ -27,7 +27,10 @@ info:
   Known for:
     - "Founding Furry"
     - "Art Comissions"
-  Theme Song: [Patrica Taxxon - Kissing Ancaps](https://youtu.be/irICqpaMeD4)
+  Theme Songs: 
+  [Oliver Tree - Alien Boy](https://youtu.be/3wLLgJ_a7Rs) 
+  [Patrica Taxxon - Kissing Ancaps](https://youtu.be/irICqpaMeD4)
+  
   
 ---
 
@@ -40,7 +43,7 @@ Shiny
 
 While attending a furry convention in Seattle with his boyfriend, he woke up in their hotel room to discover the bump he had been picking at on the base of his spine had sprouted into a full-fledged fluffy cat tail. The beginning of his anthropic shift wasn't exactly the type of thing you could hide for too long. He was absolutely delighted to transform, however as one of the (un)lucky few to be transformed early on the public reaction was not as warm.  
 
-As well as growing crops and keeping chickens, plus creating art, Shiny runs Pawsitively Everything with his partner.
+Along with farming and creating his art, Shiny runs Pawsitively Everything with [his partner]().
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
